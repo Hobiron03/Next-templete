@@ -1,1 +1,1 @@
-### Next.js + Mantine UI + Tailwind css
+## Next.js + Mantine UI + Tailwind css
